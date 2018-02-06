@@ -2,7 +2,7 @@
 title: Home Page
 layout: default
 excerpt: Shell tags and Shell statements mimic underlying Javascript methods ...
-version: Index Template md Dtd 02-05-18
+version: Index Template md Dtd 02-05-18 pm
 navigation_weight: 1
 categories: template
 ---
